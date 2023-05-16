@@ -1,6 +1,6 @@
-// two ways to consider audio
-const musictrack1 = new Audio('/src/assets/music/my-universe-147152.mp3');
-const musictrack2 = '/src/assets/music/reflected-light-147979.mp3';
+
+const musictrack1 = 'https://raw.githubusercontent.com/ankit-m15/music-player/master/src/assets/music/my-universe-147152.mp3';
+const musictrack2 = 'https://raw.githubusercontent.com/ankit-m15/music-player/master/src/assets/music/reflected-light-147979.mp3';
 
 let tracksList = [
     {
